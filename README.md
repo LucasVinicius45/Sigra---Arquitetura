@@ -48,7 +48,7 @@ O objetivo é mitigar os impactos de **apagões** em regiões críticas, como á
 
 ## Execução
 
-- git clone https://github.com/seu-usuario/sigra.git
+- git clone https://github.com/LucasVinicius45/Sigra---Arquitetura.git
 - Configure a chave da API (weather.api.key=SUA_API_KEY_AQUI)
 - mvn clean install
 - mvn spring-boot:run
